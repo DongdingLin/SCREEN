@@ -4,7 +4,7 @@ This repo is the code and synthetic data of the ACM MM 2024 paper "SCREEN: A Ben
 
 ## Dataset
 
-The organized dataset will be uploaded to Google Drive soon and you can download it from the Google Drive link.
+The organized dataset had been uploaded to Google Drive, and you can download it from the [Google Drive link]([https://www.anaconda.com/](https://drive.google.com/drive/folders/1DBVgfp0drJeeQ_ff1_OE-EPcKCVO8IJq?usp=sharing)).
 
 ## Dataset Construction
 
